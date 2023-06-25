@@ -1,12 +1,12 @@
 """
-Money Getter Game
+Boney Money Game
 """
 import arcade
 
 # Constants
 SCREEN_WIDTH = 1000
 SCREEN_HEIGHT = 650
-SCREEN_TITLE = "Money Getter"
+SCREEN_TITLE = "Boney Money "
 
 # Constants used to scale our sprites from their original size
 CHARACTER_SCALING = 1
